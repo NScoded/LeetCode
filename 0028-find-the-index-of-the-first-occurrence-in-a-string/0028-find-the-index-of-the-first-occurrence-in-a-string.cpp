@@ -9,6 +9,9 @@ public:
             if(part==needle){
                 return i;
             }
+            if(i==haystack.size()-needle.size()){
+                break;
+            }
         }
         return -1;
     }
