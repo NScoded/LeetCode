@@ -4,7 +4,7 @@ public:
         int size=0;
         bool ready=0;
         for(int i=s.size()-1;i>-1;i--){
-            if((s[i]==' ' )&& (ready==0) ){
+            if((s[i]==' '|| s[i]=='.' )&& (ready==0) ){
                 continue;
             }
             ready=1;
