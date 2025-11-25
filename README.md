@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/NScoded/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
