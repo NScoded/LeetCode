@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NScoded/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/NScoded/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/NScoded/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NScoded/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NScoded/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NScoded/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NScoded/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NScoded/LeetCode/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
