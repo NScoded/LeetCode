@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NScoded/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NScoded/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/NScoded/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/NScoded/LeetCode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NScoded/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NScoded/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/NScoded/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/NScoded/LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
