@@ -6,7 +6,6 @@ public:
             if(nums[i]==nums[i-1]){
                 nums.erase(nums.begin()+i);
                 i--;k--;
-                continue;
             }
         }
         return k;
