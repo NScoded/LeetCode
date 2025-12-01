@@ -1,13 +1,11 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-
-        // Kadan's By Own 
-       int currentSum=0,maxSum=INT_MIN;
-       for(int val:nums){
-        currentSum=max(currentSum+val,val);
-        maxSum=max(maxSum,currentSum);
-       }
-        return maxSum;
+        int cs=0,ms=INT_MIN;
+        for(int i=0;i<nums.size();i++){
+            cs=max(cs+nums[i],nums[i]);
+            ms=max(ms,cs);
+        }
+        return ms;
     }
 };
