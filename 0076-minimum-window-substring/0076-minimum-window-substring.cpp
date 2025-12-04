@@ -1,34 +1,27 @@
 class Solution {
 public:
    string minWindow(string s, string t) {
-    // Written by myself
-     if(s.size()<t.size()) return "";
-
-     vector<int>need(128,0);
-     int req=0;
-     for(char c : t){
-        need[c]++;req++;
-     }
-     int i=0,minwindow=INT_MAX,start=0;
-
-     for(int j=0;j<s.size();j++){
-        if(need[s[j]]>0) req--;
-        need[s[j]]--;
+    if(s.size()<t.size()) return "";
+    vector<int>v(128,0);
+    for(char c:t)v[c]++;
+    int req=t.size();
+    int j=0,minwin=INT_MAX,start=0;
+    for(int i=0;i<s.size();i++){
+        if(v[s[i]]>0)req--;
+        v[s[i]]--;
 
         while(req==0){
-            if(j-i+1<minwindow){
-                minwindow=j-i+1;
-                start=i;
+            if(i-j+1<minwin){
+                minwin=i-j+1;
+                start=j;
             }
-            need[s[i]]++;
-            if(need[s[i]]>0) req++;
-            i++;
+
+            v[s[j]]++;
+            if(v[s[j]]>0)req++;
+            j++;
         }
-
-     }
-     return (minwindow==INT_MAX)? "" : s.substr(start,minwindow);
     }
-
-
+    return (minwin==INT_MAX)?"":s.substr(start,minwin);
+   }
 
 };
