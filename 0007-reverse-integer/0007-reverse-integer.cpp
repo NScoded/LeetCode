@@ -1,7 +1,7 @@
 class Solution {
 public:
     int reverse(int x) {
-        bool sign=0;
+       
         int ans=0;
         while(x!=0){
             if(ans>INT_MAX/10 || ans<INT_MIN/10) return 0;
