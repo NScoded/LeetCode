@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/NScoded/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/NScoded/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NScoded/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/NScoded/LeetCode/tree/master/0724-find-pivot-index) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Counting Sort
 |  |
 | ------- |
