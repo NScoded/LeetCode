@@ -1,38 +1,38 @@
 class Solution {
 public:
+    bool isMagic(vector<vector<int>>& g, int r, int c) {
+        // center must be 5
+        if (g[r+1][c+1] != 5) return false;
+
+        vector<int> freq(10, 0);
+        for (int i = r; i < r+3; i++) {
+            for (int j = c; j < c+3; j++) {
+                int v = g[i][j];
+                if (v < 1 || v > 9 || freq[v]++) return false;
+            }
+        }
+
+        // rows and columns
+        for (int i = 0; i < 3; i++) {
+            if (g[r+i][c] + g[r+i][c+1] + g[r+i][c+2] != 15) return false;
+            if (g[r][c+i] + g[r+1][c+i] + g[r+2][c+i] != 15) return false;
+        }
+
+        // diagonals
+        if (g[r][c] + g[r+1][c+1] + g[r+2][c+2] != 15) return false;
+        if (g[r][c+2] + g[r+1][c+1] + g[r+2][c] != 15) return false;
+
+        return true;
+    }
+
     int numMagicSquaresInside(vector<vector<int>>& grid) {
-        int ans = 0;
-        int m = grid.size();
-        int n = grid[0].size();
-        for (int row = 0; row + 2 < m; row++) {
-            for (int col = 0; col + 2 < n; col++) {
-                if (isMagicSquare(grid, row, col)) {
-                    ans++;
-                }
+        int n = grid.size(), m = grid[0].size(), ans = 0;
+
+        for (int i = 0; i + 2 < n; i++) {
+            for (int j = 0; j + 2 < m; j++) {
+                if (isMagic(grid, i, j)) ans++;
             }
         }
         return ans;
-    }
-
-private:
-    bool isMagicSquare(vector<vector<int>>& grid, int row, int col) {
-        // The sequences are each repeated twice to account for
-        // the different possible starting points of the sequence
-        // in the magic square
-        string sequence = "2943816729438167";
-        string sequenceReversed = "7618349276183492";
-
-        string border = "";
-        // Flattened indices for bordering elements of 3x3 grid
-        vector<int> borderIndices = {0, 1, 2, 5, 8, 7, 6, 3};
-        for (int i : borderIndices) {
-            int num = grid[row + i / 3][col + (i % 3)];
-            border += to_string(num);
-        }
-
-        // Make sure the sequence starts at one of the corners
-        return (grid[row][col] % 2 == 0 && grid[row + 1][col + 1] == 5 &&
-                (sequence.find(border) != string::npos ||
-                 sequenceReversed.find(border) != string::npos));
     }
 };
