@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NScoded/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/NScoded/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NScoded/LeetCode/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/NScoded/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/NScoded/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NScoded/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NScoded/LeetCode/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NScoded/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/NScoded/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NScoded/LeetCode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/NScoded/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NScoded/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NScoded/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NScoded/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NScoded/LeetCode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/NScoded/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/NScoded/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/NScoded/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NScoded/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/NScoded/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NScoded/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/NScoded/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/NScoded/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/NScoded/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
