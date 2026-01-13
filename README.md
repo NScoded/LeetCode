@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/NScoded/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NScoded/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NScoded/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3453-separate-squares-i](https://github.com/NScoded/LeetCode/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/NScoded/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NScoded/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/NScoded/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3453-separate-squares-i](https://github.com/NScoded/LeetCode/tree/master/3453-separate-squares-i) |
 ## Divide and Conquer
 |  |
 | ------- |
