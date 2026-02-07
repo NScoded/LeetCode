@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/NScoded/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NScoded/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NScoded/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2785-sort-vowels-in-a-string](https://github.com/NScoded/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NScoded/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -349,4 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NScoded/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/NScoded/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
