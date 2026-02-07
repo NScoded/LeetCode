@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NScoded/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NScoded/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NScoded/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/NScoded/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/NScoded/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NScoded/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/NScoded/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NScoded/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/NScoded/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
