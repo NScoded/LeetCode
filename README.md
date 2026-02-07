@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/NScoded/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NScoded/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NScoded/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/NScoded/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2402-meeting-rooms-iii](https://github.com/NScoded/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/NScoded/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NScoded/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/NScoded/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NScoded/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NScoded/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/NScoded/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2785-sort-vowels-in-a-string](https://github.com/NScoded/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NScoded/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
