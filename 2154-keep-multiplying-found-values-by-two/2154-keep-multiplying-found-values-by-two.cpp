@@ -4,6 +4,7 @@ public:
         sort(nums.begin(),nums.end());
         for(int num:nums){
             if(num==original)original=original*2;
+            if(num>original)break;
         }
         return original;
     }
