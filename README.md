@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/NScoded/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NScoded/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/NScoded/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NScoded/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NScoded/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NScoded/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3719-longest-balanced-subarray-i](https://github.com/NScoded/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NScoded/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/NScoded/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/NScoded/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NScoded/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/NScoded/LeetCode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3719-longest-balanced-subarray-i](https://github.com/NScoded/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NScoded/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3454-separate-squares-ii](https://github.com/NScoded/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NScoded/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/NScoded/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
