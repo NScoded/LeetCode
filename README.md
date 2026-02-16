@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/NScoded/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/NScoded/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/NScoded/LeetCode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/NScoded/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/NScoded/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NScoded/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/NScoded/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NScoded/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/NScoded/LeetCode/tree/master/0190-reverse-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/NScoded/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NScoded/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NScoded/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
