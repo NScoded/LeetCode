@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/NScoded/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/NScoded/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NScoded/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NScoded/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/NScoded/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NScoded/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/NScoded/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/NScoded/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/NScoded/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NScoded/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NScoded/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NScoded/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/NScoded/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/NScoded/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NScoded/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/NScoded/LeetCode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NScoded/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NScoded/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NScoded/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Greedy
@@ -416,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/NScoded/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NScoded/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NScoded/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
