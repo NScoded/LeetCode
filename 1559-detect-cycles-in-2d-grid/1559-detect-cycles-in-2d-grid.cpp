@@ -1,57 +1,47 @@
 class Solution {
 public:
-    bool containsCycle(vector<vector<char>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
+    int n, m;
+    vector<vector<int>> vis;
+    
+    bool dfs(vector<vector<char>>& grid, int x, int y, int px, int py) {
+        vis[x][y] = 1;
         
-        int total = n * m;
-        vector<vector<int>> adj(total);
-        
-        // Directions
         int dx[4] = {-1, 0, 1, 0};
         int dy[4] = {0, 1, 0, -1};
         
-        // 🔹 Build Graph
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-                int node = i * m + j;
-                
-                for(int k = 0; k < 4; k++) {
-                    int ni = i + dx[k];
-                    int nj = j + dy[k];
-                    
-                    if(ni >= 0 && nj >= 0 && ni < n && nj < m) {
-                        if(grid[ni][nj] == grid[i][j]) {
-                            int neighbour = ni * m + nj;
-                            adj[node].push_back(neighbour);
-                        }
-                    }
-                }
+        for(int k = 0; k < 4; k++) {
+            int nx = x + dx[k];
+            int ny = y + dy[k];
+            
+            if(nx < 0 || ny < 0 || nx >= n || ny >= m)
+                continue;
+            
+            if(grid[nx][ny] != grid[x][y])
+                continue;
+            
+            if(!vis[nx][ny]) {
+                if(dfs(grid, nx, ny, x, y))
+                    return true;
+            }
+            else if(nx != px || ny != py) {
+                return true;
             }
         }
         
-        // 🔹 Cycle Detection (DFS)
-        vector<int> vis(total, 0);
+        return false;
+    }
+    
+    bool containsCycle(vector<vector<char>>& grid) {
+        n = grid.size();
+        m = grid[0].size();
+        vis.assign(n, vector<int>(m, 0));
         
-        function<bool(int,int)> dfs = [&](int node, int parent) {
-            vis[node] = 1;
-            
-            for(int neighbour : adj[node]) {
-                if(!vis[neighbour]) {
-                    if(dfs(neighbour, node))
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(!vis[i][j]) {
+                    if(dfs(grid, i, j, -1, -1))
                         return true;
                 }
-                else if(neighbour != parent) {
-                    return true;
-                }
-            }
-            return false;
-        };
-        
-        for(int i = 0; i < total; i++) {
-            if(!vis[i]) {
-                if(dfs(i, -1))
-                    return true;
             }
         }
         
