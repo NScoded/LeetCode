@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/NScoded/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NScoded/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NScoded/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NScoded/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NScoded/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NScoded/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NScoded/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/NScoded/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/NScoded/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/NScoded/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NScoded/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NScoded/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/NScoded/LeetCode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NScoded/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NScoded/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/NScoded/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/NScoded/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/NScoded/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
