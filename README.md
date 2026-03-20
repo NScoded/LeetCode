@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/NScoded/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NScoded/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NScoded/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NScoded/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NScoded/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/NScoded/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/NScoded/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NScoded/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NScoded/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NScoded/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NScoded/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NScoded/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## String Matching
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/NScoded/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/NScoded/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NScoded/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NScoded/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NScoded/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
