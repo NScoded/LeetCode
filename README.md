@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NScoded/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NScoded/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NScoded/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/NScoded/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NScoded/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/NScoded/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NScoded/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -545,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NScoded/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/NScoded/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
