@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/NScoded/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NScoded/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/NScoded/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/NScoded/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NScoded/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NScoded/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/NScoded/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NScoded/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NScoded/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NScoded/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2463-minimum-total-distance-traveled](https://github.com/NScoded/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NScoded/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NScoded/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NScoded/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NScoded/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NScoded/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/NScoded/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/NScoded/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2785-sort-vowels-in-a-string](https://github.com/NScoded/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NScoded/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NScoded/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
