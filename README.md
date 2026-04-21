@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NScoded/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NScoded/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NScoded/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NScoded/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NScoded/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NScoded/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NScoded/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/NScoded/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/NScoded/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NScoded/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NScoded/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/NScoded/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NScoded/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NScoded/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/NScoded/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
