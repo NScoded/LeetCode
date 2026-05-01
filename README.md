@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/NScoded/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/NScoded/LeetCode/tree/master/0274-h-index) |
+| [0396-rotate-function](https://github.com/NScoded/LeetCode/tree/master/0396-rotate-function) |
 | [0724-find-pivot-index](https://github.com/NScoded/LeetCode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NScoded/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/NScoded/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NScoded/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/NScoded/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NScoded/LeetCode/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/NScoded/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NScoded/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/NScoded/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/NScoded/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NScoded/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/NScoded/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NScoded/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/NScoded/LeetCode/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NScoded/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/NScoded/LeetCode/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/NScoded/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
