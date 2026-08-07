@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NScoded/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NScoded/LeetCode/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/NScoded/LeetCode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/NScoded/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NScoded/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/NScoded/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NScoded/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/NScoded/LeetCode/tree/master/0258-add-digits) |
 | [0874-walking-robot-simulation](https://github.com/NScoded/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NScoded/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/NScoded/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/NScoded/LeetCode/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NScoded/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
 |  |
