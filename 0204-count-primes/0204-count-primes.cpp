@@ -3,9 +3,11 @@ public:
 
     
     int countPrimes(int n) {
+        if(n<3)return 0;
+        
         int ans=0;
         vector<bool>num(n,true);
-        for(int i=2;i<n;i++){
+        for(int i=3;i<n;i=i+2){
             if(num[i]){
                 ans++;
                 int j=1;
@@ -15,7 +17,7 @@ public:
                 }
             }
         }
-        return ans;
+        return ans+1;
 
         
 
