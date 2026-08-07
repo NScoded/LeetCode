@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NScoded/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NScoded/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NScoded/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/NScoded/LeetCode/tree/master/0274-h-index) |
 | [0396-rotate-function](https://github.com/NScoded/LeetCode/tree/master/0396-rotate-function) |
 | [0724-find-pivot-index](https://github.com/NScoded/LeetCode/tree/master/0724-find-pivot-index) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NScoded/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/NScoded/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NScoded/LeetCode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/NScoded/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NScoded/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/NScoded/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NScoded/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NScoded/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NScoded/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -620,5 +623,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NScoded/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NScoded/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
