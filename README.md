@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NScoded/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/NScoded/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NScoded/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NScoded/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/NScoded/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NScoded/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NScoded/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NScoded/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/NScoded/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NScoded/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NScoded/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/NScoded/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/NScoded/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NScoded/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NScoded/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NScoded/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NScoded/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NScoded/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/NScoded/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NScoded/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
