@@ -29,7 +29,7 @@ public:
             for(int row=1;row<down;row++){
                 grid[row][column]+=grid[row-1][column] + grid[row][column-1] - grid[row-1][column-1];
                 if(grid[row][column]>k){
-                    
+                    down=row;
                     break;
                 }
                 ans++;
