@@ -49,6 +49,7 @@ public:
                 tab[i][j].X=x + tab[i-1][j].X + tab[i][j-1].X - tab[i-1][j-1].X;
                 tab[i][j].Y=y + tab[i-1][j].Y + tab[i][j-1].Y - tab[i-1][j-1].Y;
                 if(tab[i][j].X == tab[i][j].Y && tab[i][j].X && tab[i][j].Y)ans++;
+                
 
             }
         }
