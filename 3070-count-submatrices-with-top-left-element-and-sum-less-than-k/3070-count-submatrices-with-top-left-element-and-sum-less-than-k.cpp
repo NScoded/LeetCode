@@ -1,66 +1,38 @@
 class Solution {
 public:
     int countSubmatrices(vector<vector<int>>& grid, int k) {
-        int right=0;
+        int right=1;
         int sum=0;
-        int down =0;
+        int down =1;
         int ans=0;
-        for(int i=0;i<grid.size();i++){
+        if(grid[0][0]>k)return 0;
+        ans++;
 
-            if(sum+grid[i][0]<=k){
-                
-                sum+=grid[i][0];
-                if(i)ans++;
-        
-                down++;
-            }
-            else{
-                break;
-            }
+
+        for(int i=1;i<grid[0].size();i++){
+            grid[0][i]+=grid[0][i-1];
+            if(grid[0][i]>k)break;
+            right++;
+            ans++;
 
         }
-        
-    
-        
-        sum=0;
-        vector<int>buffer;
-        for(int i=0;i<grid[0].size();i++){
-            if(sum+grid[0][i]<=k){
-                sum+=grid[0][i];
-                ans++;
-                right++;
-                if(buffer.empty()){
-                    buffer.push_back(grid[0][i]);
-                }
-                else{
-                    buffer.push_back(buffer.back()+grid[0][i]);
-                }
-            }
-            else{
-                break;
-            }
-
+        for(int i=1;i<grid.size();i++){
+            grid[i][0]+=grid[i-1][0];
+            if(grid[i][0]>k)break;
+            down++;
+            ans++;
         }
         if(down==1|| right==1)return ans;
-
+    
         for(int column=1;column<right;column++){
-            sum=buffer[column];
-            int j=column;
-            for(int row=1;row<grid.size();row++){
-                sum+=grid[row][column];
-                if(sum>k)break;
-                int j=column;
-                j--;
-                while(sum<=k && j>=0){
-                    sum+=grid[row][j];
-                    j--;
-                }
-                if(sum>k){
+        
+            for(int row=1;row<down;row++){
+                grid[row][column]+=grid[row-1][column] + grid[row][column-1] - grid[row-1][column-1];
+                if(grid[row][column]>k){
+                    
                     break;
                 }
-                else{
-                    ans++;
-                }
+                ans++;
 
             }
         }
