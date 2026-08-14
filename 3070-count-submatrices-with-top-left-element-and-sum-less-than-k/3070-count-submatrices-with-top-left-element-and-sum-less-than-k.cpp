@@ -41,12 +41,12 @@ public:
             }
 
         }
-        
+        if(down==1|| right==1)return ans;
 
         for(int column=1;column<right;column++){
             sum=buffer[column];
             int j=column;
-            for(int row=1;row<down;row++){
+            for(int row=1;row<grid.size();row++){
                 sum+=grid[row][column];
                 if(sum>k)break;
                 int j=column;
