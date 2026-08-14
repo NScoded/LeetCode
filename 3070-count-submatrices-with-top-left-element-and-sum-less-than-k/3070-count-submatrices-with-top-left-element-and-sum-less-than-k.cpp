@@ -41,7 +41,7 @@ public:
             }
 
         }
-        if(down==0|| right==0)return ans;
+        if(down==1|| right==1)return ans;
 
         for(int column=1;column<right;column++){
             sum=buffer[column];
