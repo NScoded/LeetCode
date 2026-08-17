@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NScoded/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NScoded/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NScoded/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/NScoded/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/NScoded/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NScoded/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/NScoded/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/NScoded/LeetCode/tree/master/1390-four-divisors) |
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NScoded/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/NScoded/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/NScoded/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NScoded/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NScoded/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/NScoded/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/NScoded/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Binary Search Tree
