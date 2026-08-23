@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NScoded/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/NScoded/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/NScoded/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NScoded/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NScoded/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/NScoded/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NScoded/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/NScoded/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/NScoded/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/NScoded/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/NScoded/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/NScoded/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NScoded/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NScoded/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1927-sum-game](https://github.com/NScoded/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/NScoded/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NScoded/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/NScoded/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/NScoded/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Binary Search Tree
