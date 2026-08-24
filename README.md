@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NScoded/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/NScoded/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NScoded/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/NScoded/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/NScoded/LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/NScoded/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/NScoded/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/NScoded/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/NScoded/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NScoded/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1872-stone-game-viii](https://github.com/NScoded/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/NScoded/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/NScoded/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/NScoded/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/NScoded/LeetCode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/NScoded/LeetCode/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NScoded/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1872-stone-game-viii](https://github.com/NScoded/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/NScoded/LeetCode/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/NScoded/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/NScoded/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/NScoded/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
@@ -699,12 +704,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/NScoded/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/NScoded/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/NScoded/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/NScoded/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
