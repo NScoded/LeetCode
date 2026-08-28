@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/NScoded/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/NScoded/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/NScoded/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/NScoded/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NScoded/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NScoded/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NScoded/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/NScoded/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/NScoded/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/NScoded/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/NScoded/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/NScoded/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
