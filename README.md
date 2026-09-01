@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NScoded/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NScoded/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NScoded/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NScoded/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/NScoded/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/NScoded/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/NScoded/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NScoded/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/NScoded/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NScoded/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NScoded/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/NScoded/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/NScoded/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NScoded/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NScoded/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NScoded/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NScoded/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NScoded/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NScoded/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NScoded/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NScoded/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NScoded/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NScoded/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/NScoded/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NScoded/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/NScoded/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/NScoded/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3310-remove-methods-from-project](https://github.com/NScoded/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NScoded/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
