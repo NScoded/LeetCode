@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/NScoded/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NScoded/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NScoded/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NScoded/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NScoded/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NScoded/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NScoded/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
