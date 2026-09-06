@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/NScoded/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/NScoded/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/NScoded/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/NScoded/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/NScoded/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/NScoded/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NScoded/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NScoded/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NScoded/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/NScoded/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/NScoded/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NScoded/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/NScoded/LeetCode/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/NScoded/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
