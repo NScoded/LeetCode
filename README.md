@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NScoded/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/NScoded/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/NScoded/LeetCode/tree/master/3379-transformed-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NScoded/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NScoded/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/NScoded/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NScoded/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/NScoded/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NScoded/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NScoded/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NScoded/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3453-separate-squares-i](https://github.com/NScoded/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/NScoded/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NScoded/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/NScoded/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/NScoded/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NScoded/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NScoded/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NScoded/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/NScoded/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NScoded/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NScoded/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/NScoded/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/NScoded/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NScoded/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NScoded/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NScoded/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/NScoded/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
