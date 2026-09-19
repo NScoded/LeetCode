@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/NScoded/LeetCode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/NScoded/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/NScoded/LeetCode/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NScoded/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/NScoded/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/NScoded/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/NScoded/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/NScoded/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/NScoded/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NScoded/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/NScoded/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NScoded/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Segment Tree
