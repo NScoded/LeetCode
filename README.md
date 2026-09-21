@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/NScoded/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NScoded/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NScoded/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/NScoded/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/NScoded/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NScoded/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NScoded/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NScoded/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NScoded/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NScoded/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3524-find-x-value-of-array-i](https://github.com/NScoded/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NScoded/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NScoded/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/NScoded/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NScoded/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NScoded/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NScoded/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/NScoded/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3640-trionic-array-ii](https://github.com/NScoded/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NScoded/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/NScoded/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
