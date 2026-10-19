@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NScoded/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NScoded/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NScoded/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NScoded/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/NScoded/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NScoded/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NScoded/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/NScoded/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/NScoded/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NScoded/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NScoded/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/NScoded/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NScoded/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NScoded/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NScoded/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/NScoded/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NScoded/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NScoded/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/NScoded/LeetCode/tree/master/2402-meeting-rooms-iii) |
