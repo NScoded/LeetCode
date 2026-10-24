@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/NScoded/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/NScoded/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/NScoded/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2409-count-days-spent-together](https://github.com/NScoded/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NScoded/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/NScoded/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NScoded/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/NScoded/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/NScoded/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/NScoded/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/NScoded/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NScoded/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/NScoded/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NScoded/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
