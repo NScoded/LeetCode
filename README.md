@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NScoded/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/NScoded/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/NScoded/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/NScoded/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NScoded/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NScoded/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/NScoded/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/NScoded/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NScoded/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/NScoded/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/NScoded/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NScoded/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NScoded/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/NScoded/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/NScoded/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/NScoded/LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/NScoded/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NScoded/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Prefix Sum
