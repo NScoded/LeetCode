@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/NScoded/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NScoded/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/NScoded/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/NScoded/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/NScoded/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/NScoded/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NScoded/LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/NScoded/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/NScoded/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NScoded/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/NScoded/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3379-transformed-array](https://github.com/NScoded/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/NScoded/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NScoded/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
